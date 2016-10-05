@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: Adam Delarosa adamd@gingersoftware.com
+#Author: Adam Delarosa 
 
 CHECK=NAME_OF_CHECK
 NUM3=3
